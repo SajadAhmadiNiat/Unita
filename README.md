@@ -23,7 +23,7 @@ Solution and bridge between Eitaa MiniApps and Unity programs
 ### نصب دستی
 1. مخزن را Clone یا Download کنید.
 2. پوشه `Unita` را به پوشه `Assets` پروژه خود کپی کنید.
-3. 
+   
 ## 🚀 شروع سریع
 
 1. در اولین Scene پروژه، یک GameObject خالی ایجاد کنید و نام آن را `UnitaManager` بگذارید.
