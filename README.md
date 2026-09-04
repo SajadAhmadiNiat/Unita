@@ -1,4 +1,6 @@
-[Unita Banner](Documents/1.png)
+<p align="center">
+  <img src="Documents/1.png" alt="Unita Banner" width="100%">
+</p>
 # Unita
 Solution and bridge between Eitaa MiniApps and Unity programs
 
@@ -64,15 +66,20 @@ private void Start()
 ## 🏗️ معماری پروژه
 
 ```
-Unity Project/
 ├── Assets/
-│   ├── Plugins/WebGL/
-│   │   └── UnitaBridge.jslib    # پل ارتباطی C# ↔ JavaScript
+│   ├── Plugins/
+│   │   └── WebGL/
+│   │       └── UnitaBridge.jslib
+│   │
 │   ├── Scripts/
-│   │   └── UnitaManager.cs      # کلاس اصلی مدیریت برنامک
+│   │   └── UnitaManager.cs
+│   │
 │   └── WebGLTemplates/
-│       └── UnitaTemplate/
-│           └── index.html       # قالب WebGL
+│       └── EitaaTemplate/
+│           └── index.html
+│           └── unita-background.png
+│           └── thumbnail.png
+│           └── unita-loading-font.woff2
 ```
 
 ## 🔧 پیش‌نیازها
