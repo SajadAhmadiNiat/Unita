@@ -5,7 +5,7 @@ Solution and bridge between Eitaa MiniApps and Unity programs
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**Unita** یک پلاگین اختصاصی برای تبدیل بازی‌ها و نرم‌افزارهای توسعه‌یافته در موتور بازی Unity به برنامک‌های تعاملی تحت وب (MiniApps) در بستر پیام‌رسان ایتا است.
+پروژه **Unita** یک پلاگین اختصاصی برای تبدیل بازی‌ها و نرم‌افزارهای توسعه‌یافته در موتور بازی Unity به برنامک‌های تعاملی تحت وب (MiniApps) در بستر پیام‌رسان ایتا است.
 
 ## 📦 نصب
 
